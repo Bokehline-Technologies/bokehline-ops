@@ -2,8 +2,8 @@
 
 A plant operations app built with Python, Streamlit, and SQLite. It covers the core loop of a manufacturing program office: launching programs through APQP gates, buying from suppliers, logging production and scrap, and seeing the results on one dashboard.
 
-**Live demo:** _add your Streamlit Community Cloud link_
-**Case study:** _add the bokehline.com case-study link_
+- **Live demo:** [bokehline-ops.streamlit.app](https://bokehline-ops.streamlit.app)
+- **Case study:** coming soon on [bokehline.com](https://bokehline.com)
 
 ![Operations dashboard](screenshots/dashboard.png)
 
@@ -135,6 +135,8 @@ bokehline-ops/
 
 ## Deploy to Streamlit Community Cloud
 
+The live demo runs at [bokehline-ops.streamlit.app](https://bokehline-ops.streamlit.app). To deploy your own copy:
+
 1. Sign in at [share.streamlit.io](https://share.streamlit.io) with GitHub.
 2. Choose **Create app**, select this repository and branch, and set the main file to `app.py`.
 3. Deploy. The app runs in demo mode, so visitors can't change the shared data.
@@ -152,4 +154,4 @@ Built while learning SQL, using an AI coding assistant as a tutor and pair progr
 
 ## License
 
-[MIT](LICENSE) © 2026 Bokehline Technologies
+[MIT](LICENSE) © 2026 Bokehline Technologies LLC
